@@ -1,4 +1,4 @@
-Hello,this is Octocat
+Hello,this is Octocat project
 I'm going to show you how i use
 Let's start with git init
 
